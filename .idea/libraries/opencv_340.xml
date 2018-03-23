@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="opencv-340">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/opencv-340.jar!/" />
+      <root url="file://$PROJECT_DIR$/libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/libraries" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libraries/opencv-340.jar!/" />
+      <root url="file://$PROJECT_DIR$/libraries" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libraries" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libraries" recursive="false" type="SOURCES" />
+  </library>
+</component>
